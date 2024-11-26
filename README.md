@@ -46,13 +46,3 @@ This repository hosts a Python-based GUI application that allows users to upscal
 3. The image will be displayed, and an upload URL will be generated.
 4. Click **Process Image** to enhance the image using the Replicate API.
 5. View and save the processed image.
-
-### Notes
-- Ensure you have a valid Replicate API token and an image hosting API key.
-- Processed images are saved locally as `output.png`.
-
-### License
-This project is licensed under the MIT License.
-
-### Contribution
-Contributions are welcome! Feel free to submit issues and pull requests.
